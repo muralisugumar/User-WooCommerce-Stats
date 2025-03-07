@@ -1,4 +1,5 @@
 # User & WooCommerce Stats
+
 **Version:** 1.3  
 **Author:** Murali Sugumar
 
@@ -40,16 +41,16 @@ Displays comprehensive user statistics and WooCommerce metrics in WordPress admi
 
 ## FAQ
 **Q: Why aren't WooCommerce stats showing?**  
-A: Ensure WooCommerce is installed and activated
+**A:** Ensure WooCommerce is installed and activated
 
 **Q: Some numbers show zero, why?**  
-A: Verify you have actual data (users/orders) in your system
+**A:** Verify you have actual data (users/orders) in your system
 
 **Q: Can I customize the display?**  
-A: Current version requires code modifications
+**A:** Current version requires code modifications
 
 **Q: How to improve performance on large sites?**  
-A: Consider adding caching mechanisms
+**A:** Consider adding caching mechanisms
 
 ## Changelog
 - **1.3** - Fixed sales calculations and customer stats
