@@ -1,4 +1,4 @@
-# User & WooCommerce Stats
+#User & WooCommerce Stats
 
 **Version:** 1.3  
 **Author:** Murali Sugumar
